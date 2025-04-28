@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('a.ttf') format('truetype');
+}
+  
+h1 {
+    font-family: 'CustomFont', sans-serif;
+    font-size: 14px;
+}
